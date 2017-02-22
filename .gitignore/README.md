@@ -1,0 +1,2 @@
+# MNIST-CNN-Experiment
+A python code was written wherein MNIST handwritten digits were to be recognized. 32000 samples were given for the training of the network and the model’s accuracy was evaluated on Kaggle using 10000 different samples as the test set. Keras library with Theano backend was used for performing the simulations. A deep Convolutional Neural Network architecture was developed and used for the training of the network.  
